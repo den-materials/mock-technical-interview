@@ -20,7 +20,7 @@ You have an array of integers, and you want to map them to another array that sa
 
 For each index of the original array, you want to replace it with the sum of every integer **except** the integer at that index.  
 
-How would you code a general solution for this mapping?
+Write a function for this mapping.
 
 ## Decimal to Binary
 

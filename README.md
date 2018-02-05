@@ -1,3 +1,5 @@
+<!-- some people had no idea what the binary task meant, cause we haven't really done anything with number bases -->
+
 # Technical Interview Questions
 
 A lot of interviews will ask you to solve questions that relate to problem solving in computer science.  While you may never see these problems in your day-to-day, a lot of companies see these problems as a way to examine your problem-solving skills, and your command of the language you most often code in.  Even if you don't see these problems in an interview, they are a good way to practice converting (albeit nerdy) human problems into coded solutions (which you will definitely have to do on the job).
